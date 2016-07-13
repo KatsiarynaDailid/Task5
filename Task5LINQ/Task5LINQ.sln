@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task5LINQ", "Task5LINQ\Task5LINQ.csproj", "{D5C32570-73BB-48C2-8314-A9E45BF84326}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleForFibonacci", "ConsoleForFibonacci\ConsoleForFibonacci.csproj", "{F956A45A-621F-48DF-B40E-52F650D7E739}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5C32570-73BB-48C2-8314-A9E45BF84326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5C32570-73BB-48C2-8314-A9E45BF84326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5C32570-73BB-48C2-8314-A9E45BF84326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5C32570-73BB-48C2-8314-A9E45BF84326}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F956A45A-621F-48DF-B40E-52F650D7E739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F956A45A-621F-48DF-B40E-52F650D7E739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F956A45A-621F-48DF-B40E-52F650D7E739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F956A45A-621F-48DF-B40E-52F650D7E739}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
